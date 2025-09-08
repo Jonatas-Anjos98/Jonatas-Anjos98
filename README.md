@@ -64,20 +64,12 @@ Atualmente, meu foco é:
 ---
 
 ## 🌐 Onde me encontrar
-<div align="center">
+<div>
   
 - 📧 **E-mail**: anjos92489@gmail.com
 - 💼 **LinkedIn**: [Jonatas Anjos](https://www.linkedin.com/in/jhon-dev-7690a7370/)
 - 🔗 **Portfólio (em breve)**: Projetos criativos chegando em breve!
 
-</div>
-
----
-
-## ⭐ Projetos de Destaque
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonata-Anjos98&repo=NOME-DO-REPOSITORIO&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonata-Anjos98&repo=OUTRO-REPOSITORIO&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
