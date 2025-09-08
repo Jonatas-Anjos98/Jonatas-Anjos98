@@ -76,8 +76,8 @@ Atualmente, meu foco é:
 
 ## ⭐ Projetos de Destaque
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPOSITORIO&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=OUTRO-REPOSITORIO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonata-Anjos98&repo=NOME-DO-REPOSITORIO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonata-Anjos98&repo=OUTRO-REPOSITORIO&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
