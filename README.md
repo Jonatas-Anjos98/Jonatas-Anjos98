@@ -16,17 +16,6 @@ Estou sempre em busca de novas oportunidades e colaborações. Vamos conectar!
 
 ---
 
-## ✨ Foco
-
-Atualmente, meu foco é:
-
--   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python** para desenvolvimento backend e automação.
--   🌐 **Web Development** com HTML, CSS e JavaScript.
--   💡 **Projetos inovadores** que combinam criatividade e código.
--   🚀 **Crescimento contínuo** e oportunidades de colaboração.
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 <div align="center">
 
@@ -43,33 +32,26 @@ Atualmente, meu foco é:
 
 ---
 
+## ✨ Foco
+
+Atualmente, meu foco é:
+
+-   🐍 **Python** para desenvolvimento backend e automação.
+-   🌐 **Web Development** com HTML, CSS e JavaScript.
+-   💡 **Projetos inovadores** que combinam criatividade e código.
+-   🚀 **Crescimento contínuo** e oportunidades de colaboração.
+
+---
+
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/Jonatas-Anjos98">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonatas-Anjos98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Jonatas-Anjos98">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatas-Anjos98&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatas-Anjos98&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
   </a>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonatas-Anjos98&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
-</div>
-
----
-
-## 🐍 Animação das Contribuições
-<div align="center">
-  <img src="https://github.com/Jonatas-Anjos98/Jonatas-Anjos98/blob/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha" />
-</div>
-
----
-
-## 🎨 Gráfico 3D de Contribuições
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-south-season-animate.svg" alt="Gráfico 3D de Contribuições" />
 </div>
 
 ---
@@ -88,14 +70,14 @@ Atualmente, meu foco é:
     <td valign="top" align="left">
       <h3>Detalhes de Contato</h3>
       <ul>
-        <li>📧 **E-mail**: anjos92489@gmail.com</li>
-        <li>🔗 **Portfólio (em breve)**: Projetos criativos chegando em breve!</li>
+        <li>📧 E-mail: anjos92489@gmail.com</li>
+        <li>🔗 Portfólio (em breve)**: Projetos criativos chegando em breve!</li>
       </ul>
     </td>
     <td valign="top" align="left">
       <h3>Conecte-se</h3>
       <ul>
-        <li>💼 **LinkedIn**: [Jonatas Anjos](https://www.linkedin.com/in/jhon-dev-7690a7370/)</li>
+        <li>💼 LinkedIn: [Jonatas Anjos](https://www.linkedin.com/in/jhon-dev-7690a7370/)</li>
       </ul>
     </td>
   </tr>
