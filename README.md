@@ -64,24 +64,21 @@ Atualmente, meu foco é:
 ---
 
 ## 🌐 Onde me encontrar
+<div align="center">
+  
+- 📧 **E-mail**: anjos92489@gmail.com
+- 💼 **LinkedIn**: [Jonatas Anjos](https://www.linkedin.com/in/jhon-dev-7690a7370/)
+- 🔗 **Portfólio (em breve)**: Projetos criativos chegando em breve!
 
-<table>
-  <tr>
-    <td valign="top" align="left">
-      <h3>Detalhes de Contato</h3>
-      <ul>
-        <li>📧 E-mail: anjos92489@gmail.com</li>
-        <li>🔗 Portfólio (em breve)**: Projetos criativos chegando em breve!</li>
-      </ul>
-    </td>
-    <td valign="top" align="left">
-      <h3>Conecte-se</h3>
-      <ul>
-        <li>💼 LinkedIn: [Jonatas Anjos](https://www.linkedin.com/in/jhon-dev-7690a7370/)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+</div>
+
+---
+
+## ⭐ Projetos de Destaque
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPOSITORIO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=OUTRO-REPOSITORIO&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
