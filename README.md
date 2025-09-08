@@ -32,26 +32,6 @@ Estou sempre em busca de novas oportunidades e colaborações. Vamos conectar!
 
 ---
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/SEU-USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-  </a>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
-</div>
-
----
-
-## ⭐ Projetos de Destaque
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPOSITORIO&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=OUTRO-REPOSITORIO&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ## 🎨 Gráfico 3D de Contribuições
 <div align="center">
