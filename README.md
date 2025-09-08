@@ -1,33 +1,33 @@
 # 👋 Olá, eu sou o Jonatas!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!;Sou+Desenvolvedor+Python+💻;Apaixonado+por+Web+e+Histórias+Imersivas+✨;Explorando+novos+projetos+criativos+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!;Sou+Desenvolvedor+Python+;Apaixonado+por+Web+e+Histórias+Imersivas+;Explorando+novos+projetos+criativos+)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Olá! Sou **Jonatas**, um **Desenvolvedor Python** apaixonado por criar soluções web e experiências imersivas. Atualmente, estou focado em aprimorar minhas habilidades e construir projetos que combinam tecnologia e criatividade.
 
-- 🔭 **Estudando e aplicando**: Mergulhando em projetos com **Python**, **HTML**, **CSS** e **JavaScript** para expandir meu portfólio.
-- 🌱 **Entusiasta de storytelling**: Combinando programação com a criação de experiências de **RPG no Discord**.
-- 💡 **Aprendizado contínuo**: Gosto de transformar desafios (bugs!) em oportunidades de aprendizado e crescimento rápido.
+-  **Estudando e aplicando**: Mergulhando em projetos com **Python**, **HTML**, **CSS** e **JavaScript** para expandir meu portfólio.
+-  **Entusiasta de storytelling**: Combinando programação com a criação de experiências de **RPG no Discord**.
+-  **Aprendizado contínuo**: Gosto de transformar desafios (bugs!) em oportunidades de aprendizado e crescimento rápido.
 
 Estou sempre em busca de novas oportunidades e colaborações. Vamos conectar!
 
 ---
 
-## ✨ Foco
+## Foco
 
 Atualmente, meu foco é:
 
--   🐍 **Python** para desenvolvimento backend e automação.
--   🌐 **Web Development** com HTML, CSS e JavaScript.
--   💡 **Projetos inovadores** que combinam criatividade e código.
--   🚀 **Crescimento contínuo** e oportunidades de colaboração.
+-   **Python** para desenvolvimento backend e automação.
+-   **Web Development** com HTML, CSS e JavaScript.
+-   **Projetos inovadores** que combinam criatividade e código.
+-   **Crescimento contínuo** e oportunidades de colaboração.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,7 +43,7 @@ Atualmente, meu foco é:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/Jonatas-Anjos98">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonatas-Anjos98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
@@ -56,38 +56,24 @@ Atualmente, meu foco é:
 
 ---
 
-## 🐍 Animação das Contribuições
-<div align="center">
-  <img src="https://github.com/Jonatas-Anjos98/Jonatas-Anjos98/blob/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha" />
-</div>
-
----
-
-## 🎨 Gráfico 3D de Contribuições
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-south-season-animate.svg" alt="Gráfico 3D de Contribuições" />
-</div>
-
----
-
-## 👀 Visitantes
+## Visitantes
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jonatas-Anjos98&color=blue&style=flat-square&label=VISITAS" alt="Contador de visitantes" />
 </div>
 
 ---
 
-## 🌐 Onde me encontrar
+## Onde me encontrar
 <div align="center">
   
-- 📧 **E-mail**: anjos92489@gmail.com
-- 💼 **LinkedIn**: [Jonatas Anjos](https://www.linkedin.com/in/jhon-dev-7690a7370/)
-- 🔗 **Portfólio (em breve)**: Projetos criativos chegando em breve!
+**E-mail**: anjos92489@gmail.com
+**LinkedIn**: [Jonatas Anjos](https://www.linkedin.com/in/jhon-dev-7690a7370/)
+**Portfólio (em breve)**: Projetos criativos chegando em breve!
 
 </div>
 
 ---
 
-## ⭐ Se curtiu meu trabalho...
+## Se curtiu meu trabalho...
 
 Fique à vontade para explorar meus projetos e deixar uma estrela nos repositórios. Sua interação é muito bem-vinda!
