@@ -9,10 +9,21 @@
 Olá! Sou **Jonatas**, um **Desenvolvedor Python** apaixonado por criar soluções web e experiências imersivas. Atualmente, estou focado em aprimorar minhas habilidades e construir projetos que combinam tecnologia e criatividade.
 
 - 🔭 **Estudando e aplicando**: Mergulhando em projetos com **Python**, **HTML**, **CSS** e **JavaScript** para expandir meu portfólio.
-- 🌱 **Entusiasta de storytelling**: Combinando programação com a criação de experiências em **Livros e experiências**.
+- 🌱 **Entusiasta de storytelling**: Combinando programação com a criação de experiências de **RPG no Discord**.
 - 💡 **Aprendizado contínuo**: Gosto de transformar desafios (bugs!) em oportunidades de aprendizado e crescimento rápido.
 
 Estou sempre em busca de novas oportunidades e colaborações. Vamos conectar!
+
+---
+
+## ✨ Foco
+
+Atualmente, meu foco é:
+
+-   🐍 **Python** para desenvolvimento backend e automação.
+-   🌐 **Web Development** com HTML, CSS e JavaScript.
+-   💡 **Projetos inovadores** que combinam criatividade e código.
+-   🚀 **Crescimento contínuo** e oportunidades de colaboração.
 
 ---
 
@@ -32,6 +43,25 @@ Estou sempre em busca de novas oportunidades e colaborações. Vamos conectar!
 
 ---
 
+## 📊 Estatísticas do GitHub
+<div align="center">
+  <a href="https://github.com/Jonatas-Anjos98">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonatas-Anjos98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatas-Anjos98&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonatas-Anjos98&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
+</div>
+
+---
+
+## 🐍 Animação das Contribuições
+<div align="center">
+  <img src="https://github.com/Jonatas-Anjos98/Jonatas-Anjos98/blob/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha" />
+</div>
+
+---
 
 ## 🎨 Gráfico 3D de Contribuições
 <div align="center">
@@ -42,7 +72,7 @@ Estou sempre em busca de novas oportunidades e colaborações. Vamos conectar!
 
 ## 👀 Visitantes
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=blue&style=flat-square&label=VISITAS" alt="Contador de visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=Jonatas-Anjos98&color=blue&style=flat-square&label=VISITAS" alt="Contador de visitantes" />
 </div>
 
 ---
