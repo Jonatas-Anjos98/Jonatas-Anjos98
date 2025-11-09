@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Olá! Sou **Jonatas**, um **Desenvolvedor Python** apaixonado por criar soluções web e experiências imersivas. Atualmente, estou focado em aprimorar minhas habilidades e construir projetos que combinam tecnologia e criatividade.
 
